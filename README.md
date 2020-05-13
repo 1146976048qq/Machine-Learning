@@ -5,8 +5,8 @@
 
 *快速开始学习：* 
 - 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，大概了解机器学习来龙去脉
-- 李航的[《统计学习方法》](https://pan.baidu.com/s/1dF2b4jf)作为经典的深入案例，仔细研究几个算法的来龙去脉
-- 使用Python语言，根据[《机器学习实战》](https://pan.baidu.com/s/1gfzV7PL)快速上手写程序
+- 李航的[《统计学习方法》](https://github.com/WangRongsheng/Statistical-learning-method-lihang)作为经典的深入案例，仔细研究几个算法的来龙去脉
+- 使用Python语言，根据[《机器学习实战》](https://github.com/apachecn/AiLearning)快速上手写程序
 - 参照Youtube机器学习红人Siraj Raval的视频+代码可以帮助你更好地进入状态！
     - [原Youtube地址需要梯子](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) | [百度网盘](https://pan.baidu.com/s/1jICGJFg)
 - 来自国立台湾大学李宏毅老师的机器学习和深度学习中文课程，强烈推荐：[课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
@@ -53,6 +53,8 @@
 - Python
 
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
+    
+    - [莫烦python —— 推荐，深入浅出，很多视频篇幅短但能让读者了解基本内容](https://morvanzhou.github.io/)
 
     - [Python机器学习互动教程](https://www.springboard.com/learning-paths/machine-learning-python/)
 
@@ -344,7 +346,7 @@
 - [集智社区](https://jizhi.im/index)
 
 - - -
-
+- [一些机器学习，人工智能的公众号]（AI科技大本营，AI科技评论，AI前线，新智元，机器之心等）
 
 # 欢迎点赞
 
