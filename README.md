@@ -1,16 +1,13 @@
-# Machine-Learning
+# 机器学习资源 
 
-# 机器学习资源 Machine learning Resources
+# Machine learning Resources
 
 
 *快速开始学习：* 
 - 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，大概了解机器学习来龙去脉
 - 李航的[《统计学习方法》](https://github.com/WangRongsheng/Statistical-learning-method-lihang)作为经典的深入案例，仔细研究几个算法的来龙去脉
 - 使用Python语言，根据[《机器学习实战》](https://github.com/apachecn/AiLearning)快速上手写程序
-- 参照Youtube机器学习红人Siraj Raval的视频+代码可以帮助你更好地进入状态！
-    - [原Youtube地址需要梯子](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) | [百度网盘](https://pan.baidu.com/s/1jICGJFg)
 - 来自国立台湾大学李宏毅老师的机器学习和深度学习中文课程，强烈推荐：[课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
-- 最后，你可能想真正实战一下。那么，请到注明的机器学习竞赛平台Kaggle上做一下这些基础入门的[题目](https://www.kaggle.com/competitions?sortBy=deadline&group=all&page=1&pageSize=20&segment=gettingStarted)吧！(Kaggle上对于每个问题你都可以看到别人的代码，方便你更加快速地学习)  [Kaggle介绍及入门解读](https://zhuanlan.zhihu.com/p/25686876) [可以用来练手的数据集](https://www.kaggle.com/annavictoria/ml-friendly-public-datasets/notebook)
 - 想看别人怎么写代码？[机器学习经典教材《PRML》所有代码实现](https://github.com/ctgk/PRML)
 - [机器学习算法Python实现](https://github.com/lawlite19/MachineLearning_Python)
 
@@ -19,10 +16,6 @@
 
 
 - - -
-
-[一个简洁明了的时间序列处理(分窗、特征提取、分类)库：Seglearn](https://dmbee.github.io/seglearn/index.html)
-
-[计算机视觉这一年：这是最全的一份CV技术报告](https://zhuanlan.zhihu.com/p/31430602)
 
 [深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)
 
@@ -81,9 +74,6 @@
         - [Scikit-learn](http://scikit-learn.org/)
         - [PyTorch](http://pytorch.org/)
         - [Keras](https://keras.io/)
-        - [MXNet](http://mxnet.io/)|[相关资源大列表](https://github.com/chinakook/Awesome-MXNet)
-        - [Caffe](http://caffe.berkeleyvision.org/)
-        - [Caffe2](https://caffe2.ai/)
 
     - Java
         - [Deeplearning4j](https://deeplearning4j.org/)
@@ -110,15 +100,7 @@
 
 ## 应用 Applications
 
-- ### 计算机视觉/机器视觉 Computer vision / machine vision
-
 - ### [自然语言处理 Natural language procesing](https://github.com/Nativeatom/NaturalLanguageProcessing)
-
-- ### 语音识别 Speech recognition
-
-- ### 生物信息学 Bioinfomatics
-
-- ### 医疗 Medical
 
 - ### [行为识别 Activity recognition](https://github.com/jindongwang/activityrecognition)
 
@@ -137,22 +119,11 @@
 
 - [MIT.Introduction to Machine Learning](http://ddl.escience.cn/f/Iwtu)
 
-- [东京大学同学做的人机交互报告](https://github.com/allmachinelearning/MachineLearning/blob/master/notes/FieldResearchinChina927-104.pdf)
-
-- [人机交互简介](https://github.com/jindongwang/HCI)
-
-- [人机交互与创业论坛](https://github.com/allmachinelearning/MachineLearning/blob/master/notes/%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E4%B8%8E%E5%88%9B%E4%B8%9A%E8%AE%BA%E5%9D%9B.md)
-
-- [职场机器学习入门](https://github.com/allmachinelearning/MachineLearning/blob/master/notes/%E8%81%8C%E5%9C%BA-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
-
 - [机器学习的发展历程及启示](http://mt.sohu.com/20170326/n484898474.shtml), (@Prof. Zhihua Zhang/@张志华教授)
 
 - [常用的距离和相似度度量](https://github.com/allmachinelearning/MachineLearning/blob/master/notes/distance%20and%20similarity.md)
 
 - - -
-
-
-## 课程与讲座 Course and talk
 
 ### 机器学习 Machine Learning
  
@@ -166,9 +137,7 @@
 
 - [Stanford CS 229](http://cs229.stanford.edu/materials.html), Andrew Ng机器学习课无阉割版，Notes比较详细
 
-- [CMU 10-702 Statistical Machine Learning](http://www.stat.cmu.edu/~larry/=sml/), 讲师是Larry Wasserman，应该是统计系开的机器学习，非常数学化，第一节课就提到了RKHS(Reproducing Kernel Hilbert Space),建议数学出身的同学看或者是学过实变函数泛函分析的人看一看
-
-- [CMU 10-715 Advanced Introduction to Machine Learning](https://www.cs.cmu.edu/~epxing/Class/10715/)，同样是CMU phd级别的课，节奏快难度高
+- [CMU 10-715 Advanced Introduction to Machine Learning](https://www.cs.cmu.edu/~epxing/Class/10715/)
 
 - [机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门）。国立台湾大学[林轩田](https://www.coursera.org/instructor/htlin)
 
@@ -176,9 +145,9 @@
 
 - [Machine Learning for Data Analysis](https://www.coursera.org/learn/machine-learning-data-analysis), Coursera上Wesleyan大学的Data Analysis and Interpretation专项课程第四课。
 
-- Max Planck Institute for Intelligent Systems Tübingen[德国马普所智能系统研究所2013的机器学习暑期学校视频](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E),仔细翻这个频道还可以找到2015的暑期学校视频
+- 知乎Live：[我们一起开始机器学习吧](https://www.zhihu.com/lives/792423196996546560)
 
-- 知乎Live：[我们一起开始机器学习吧](https://www.zhihu.com/lives/792423196996546560)，[机器学习入门之特征工程](https://www.zhihu.com/lives/819543866939174912)
+- [机器学习入门之特征工程](https://www.zhihu.com/lives/819543866939174912)
 
 ### 深度学习 Machine Learning
 
