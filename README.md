@@ -3,22 +3,22 @@
 # Machine learning Resources
 
 
-*快速开始学习：* 
-- 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，大概了解机器学习来龙去脉
-- 李航的[《统计学习方法》](https://github.com/WangRongsheng/Statistical-learning-method-lihang)作为经典的深入案例，仔细研究几个算法的来龙去脉
-- 使用Python语言，根据[《机器学习实战》](https://github.com/apachecn/AiLearning)快速上手写程序
-- 来自国立台湾大学李宏毅老师的机器学习和深度学习中文课程，强烈推荐：[课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
-- 想看别人怎么写代码？[机器学习经典教材《PRML》所有代码实现](https://github.com/ctgk/PRML)
-- [机器学习算法Python实现](https://github.com/lawlite19/MachineLearning_Python)
+*快速开始学习（打基础）：* 
+- 周志华的[《机器学习》](https://pan.baidu.com/s/1hscnaQC)作为通读教材，不用深入，大概了解机器学习来龙去脉。（建议买书）
+- 李航的[《统计学习方法》](https://github.com/WangRongsheng/Statistical-learning-method-lihang)作为经典的深入案例，仔细研究几个算法的来龙去脉。（建议买书）
+- 使用Python语言，根据[《机器学习实战》](https://github.com/apachecn/AiLearning)快速上手写程序。（建议买书） 
+- 来自国立台湾大学李宏毅老师的机器学习和深度学习中文课程，强烈推荐：[课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)。（每年都有更新，b站上就有；2021年的课程主页：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html）
+- 想看别人怎么写代码？[机器学习经典教材《PRML》所有代码实现](https://github.com/ctgk/PRML)。（学有余力，可以当做工具书看看）
+- [机器学习算法Python实现](https://github.com/lawlite19/MachineLearning_Python)。
 
-- 另外，对于一些基础的数学知识，你看[深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)就够了。这本书同时也是**深度学习**经典之书。
+- 另外，对于一些基础的数学知识，你看[深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)就够了。这本书同时也是**深度学习**经典之书。(建议买书)
 - 来自南京大学周志华小组的博士生写的一本小而精的[解析卷积神经网络—深度学习实践手册](http://lamda.nju.edu.cn/weixs/book/CNN_book.html)
-
+- 建议买的书籍都是自己买了的，如果习惯用ipad看书，其实电子书也可以用的很好。
 
 - - -
 
-[深度学习(花书)中文版](https://github.com/exacity/deeplearningbook-chinese)
 
+*其他的一些知识（增广度）：* 
 **[深度学习最值得看的论文](http://www.dlworld.cn/YeJieDongTai/4385.html)**
 
 **[最全面的深度学习自学资源集锦](http://dataunion.org/29975.html)**
@@ -47,17 +47,9 @@
 
     - [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
     
-    - [莫烦python —— 推荐，深入浅出，很多视频篇幅短但能让读者了解基本内容](https://morvanzhou.github.io/)
+    - [莫烦python —— 推荐，深入浅出，很多视频篇幅短但能让读者了解基本内容，推荐；本人看了n遍](https://morvanzhou.github.io/)
 
     - [Python机器学习互动教程](https://www.springboard.com/learning-paths/machine-learning-python/)
-
-- Markdown
-
-    - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Markdown is a easy-to-use writing tool on the GitHu.
-
-- R
-
-    - [R Tutorial](http://www.cyclismo.org/tutorial/R/)
 
 - Python和Matlab的一些cheat sheet：http://ddl.escience.cn/f/IDkq 包含：
 
@@ -75,10 +67,7 @@
         - [PyTorch](http://pytorch.org/)
         - [Keras](https://keras.io/)
 
-    - Java
-        - [Deeplearning4j](https://deeplearning4j.org/)
-
-    - Matlab
+    - Matlab（比较少用了）
         - [Neural Network Toolbox](https://cn.mathworks.com/help/nnet/index.html)
         - [Deep Learning Toolbox](https://cn.mathworks.com/matlabcentral/fileexchange/38310-deep-learning-toolbox)
 
@@ -125,37 +114,27 @@
 
 - - -
 
-### 机器学习 Machine Learning
+### 机器学习课程汇总 Machine Learning
  
-[台湾大学应用深度学习课程](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/index.html)
-
-- [神经网络，机器学习，算法，人工智能等 30 门免费课程详细清单](http://www.datasciencecentral.com/profiles/blogs/neural-networks-for-machine-learning)
-  
-- [斯坦福机器学习入门课程](https://www.coursera.org/learn/machine-learning)，讲师为Andrew Ng，适合数学基础一般的人，适合入门，但是学完会发现只是懂个大概，也就相当于什么都不懂。省略了很多机器学习的细节
+- [台湾大学应用深度学习课程](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/index.html)
 
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks), Coursera上的著名课程，由Geoffrey Hinton教授主讲。
 
 - [Stanford CS 229](http://cs229.stanford.edu/materials.html), Andrew Ng机器学习课无阉割版，Notes比较详细
 
-- [CMU 10-715 Advanced Introduction to Machine Learning](https://www.cs.cmu.edu/~epxing/Class/10715/)
-
 - [机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门）。国立台湾大学[林轩田](https://www.coursera.org/instructor/htlin)
 
 - [机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。国立台湾大学[林轩田](https://www.coursera.org/instructor/htlin)
 
-- [Machine Learning for Data Analysis](https://www.coursera.org/learn/machine-learning-data-analysis), Coursera上Wesleyan大学的Data Analysis and Interpretation专项课程第四课。
-
-- 知乎Live：[我们一起开始机器学习吧](https://www.zhihu.com/lives/792423196996546560)
-
 - [机器学习入门之特征工程](https://www.zhihu.com/lives/819543866939174912)
 
-### 深度学习 Machine Learning
+### 深度学习课程汇总 Machine Learning
 
 - 斯坦福大学Feifei Li教授的[CS231n系列深度学习课程](http://cs231n.stanford.edu/)。Feifei Li目前是Google的科学家，深度学习与图像识别方面的大牛。这门课的笔记可以看[这里](https://zhuanlan.zhihu.com/p/21930884)。
 
 - [CS224n: Natural Language Processing](http://cs224n.stanford.edu). Course instructors: Chris Manning, Richard Socher.
 
-### 强化学习 Machine Learning
+### 强化学习课程汇总 Machine Learning
 
 - [CS 294 Deep Reinforcement Learning, Fall 2017](http://rll.berkeley.edu/deeprlcourse/). Course instructors: Sergey Levine, John Schulman, Chelsea Finn.
 
@@ -170,13 +149,11 @@
 
 - [Hands on Machine Learning with Scikit-learn and Tensorflow](https://my.pcloud.com/publink/show?code=XZ9ev77Zk2l6xcMtfIhHm7mRKAYhISb6sl3k)
 
-- 入门读物 [The Elements of Statistical Learning(英文第二版),The Elements of Statistical Learning.pdf](http://ddl.escience.cn/ff/emZH)
-
 - [机器学习](https://book.douban.com/subject/26708119/), (@Prof. Zhihua Zhou/周志华教授)
 
 - [统计学习方法](https://book.douban.com/subject/10590856/), (@Dr. Hang Li/李航博士)
 
-- [一些Kindle读物](http://ddl.escience.cn/f/IwWE):
+- [一些Kindle课外读物，可泛读一下](http://ddl.escience.cn/f/IwWE):
 
 	- 利用Python进行数据分析
 
@@ -186,23 +163,9 @@
 
 	- Python学习手册
 
-	- Python性能分析与优化
-
 	- Python数据挖掘入门与实践
 
 	- Python数据分析与挖掘实战(大数据技术丛书) - 张良均
-
-	- Python科学计算(第2版)
-
-	- Python计算机视觉编程 [美] Jan Erik Solem
-
-	- python核心编程(第三版)
-
-	- Python核心编程（第二版）
-
-	- Python高手之路 - [法] 朱利安·丹乔（Julien Danjou）
-
-	- Python编程快速上手 让繁琐工作自动化
 
 	- Python编程：从入门到实践
 
@@ -210,100 +173,7 @@
 
 	- 终极算法机器学习和人工智能如何重塑世界 - [美 ]佩德罗·多明戈斯
 
-	- 机器学习系统设计 (图灵程序设计丛书) - [美]Willi Richert &amp; Luis Pedro Coelho
-
-	- 机器学习实践指南：案例应用解析（第2版） (大数据技术丛书) - 麦好
-
-	- 机器学习实践 测试驱动的开发方法 (图灵程序设计丛书) - [美] 柯克（Matthew Kirk）
-
 	- 机器学习：实用案例解析
-  
-
-- [数学](https://mega.nz/#F!WVAlGL6B!mqIjYoTjiQnO4jBGVLRIWA
-):
-
-    - Algebra - Michael Artin
-
-    - Algebra - Serge Lang
-
-    - Basic Topology - M.A. Armstrong
-
-    - Convex Optimization by Stephen Boyd & Lieven Vandenberghe
-
-    - Functional Analysis by Walter Rudin
-
-    - Functional Analysis, Sobolev Spaces and Partial Differential Equations by Haim Brezis
-
-    - Graph Theory - J.A. Bondy, U.S.R. Murty
-
-    - Graph Theory - Reinhard Diestel
-
-    - Inside Interesting Integrals - Pual J. Nahin
-
-    - Linear Algebra and Its Applications - Gilbert Strang
-
-    - Linear and Nonlinear Functional Analysis with Applications - Philippe G. Ciarlet
-
-    - Mathematical Analysis I - Vladimir A. Zorich
-
-    - Mathematical Analysis II - Vladimir A. Zorich
-
-    - Mathematics for Computer Science - Eric Lehman, F Thomson Leighton, Alber R Meyer
-
-    - Matrix Cookbook, The - Kaare Brandt Petersen, Michael Syskind Pedersen
-
-    - Measures, Integrals and Martingales - René L. Schilling
-
-    - Principles of Mathematical Analysis - Walter Rudin
-
-    - Probabilistic Graphical Models: Principles and Techniques - Daphne Koller, Nir Friedman
-
-    - Probability: Theory and Examples - Rick Durrett
-
-    - Real and Complex Analysis - Walter Rudin
-
-    - Thomas' Calculus - George B. Thomas
-
-    - 普林斯顿微积分读本 - Adrian Banner
-
-
-- [Packt每日限免电子书精选](http://ddl.escience.cn/f/IS4a):
-
-	- Learning Data Mining with Python
-
-	- Matplotlib for python developers
-
-	- Machine Learing with Spark
-
-	- Mastering R for Quantitative Finance
-
-	- Mastering matplotlib
-
-	- Neural Network Programming with Java
-
-	- Python Machine Learning
-
-	- R Data Visualization Cookbook
-
-	- R Deep Learning Essentials
-
-	- R Graphs Cookbook second edition
-
-	- D3.js By Example 
-
-	- Data Analysis With R
-
-	- Java Deep Learning Essentials
-
-	- Learning Bayesian Models with R
-
-	- Learning Pandas
-
-	- Python Parallel Programming Cookbook
-
-	- Machine Learning with R
-
----
 
 
 ## 其他 Miscellaneous
@@ -315,9 +185,9 @@
 - [集智社区](https://jizhi.im/index)
 
 - - -
-- [一些机器学习，人工智能的公众号]（AI科技大本营，AI科技评论，AI前线，新智元，机器之心等）
+- [一些机器学习，人工智能的公众号]（AI科技大本营，AI科技评论，AI前线，新智元，机器之心等，关注一下可以经常获得不同领域最新的一些科研进展）
 
-# 欢迎点赞
+# 欢迎点赞，收藏，转发。。。
 
 
 
